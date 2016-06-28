@@ -39,6 +39,8 @@ function Correct(){
     var correctAnswer = document.getElementById("correct1");
     correctAnswer.style.color="green";
     ScoreUp();
-    Navigate("ques2.html")
+    Navigate("ques5.html")
    //window.setTimeout( Navigate("ques2.html"), 1000)
 }
+
+

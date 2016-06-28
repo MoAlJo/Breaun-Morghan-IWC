@@ -1,9 +1,11 @@
 body{
     background-color: #ff00ff;
-    text-align: center;
 }
-h2{
+button{
+    color:#660066;
     font-family: 'Alegreya Sans', sans-serif;
+
 }
-
-
+h1{
+     font-family: 'Alegreya Sans', sans-serif;
+}
