@@ -1,9 +1,17 @@
 body{
-    background-color: #ff00ff;
+    background-image: url("images/collage.jpg");
     text-align: center;
+    background-color: yellow;
 }
 h2{
     font-family: 'Alegreya Sans', sans-serif;
+
 }
 
+#startgame{
+    
+}
 
+img{
+    width: 90%;
+}

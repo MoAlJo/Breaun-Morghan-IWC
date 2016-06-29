@@ -40,5 +40,5 @@ function Correct(){
     correctAnswer.style.color="green";
     ScoreUp();
     Navigate("ques4.html")
-   //window.setTimeout( Navigate("ques2.html"), 1000)
+   //window.setTimeout( Navigate("ques4.html"), 1000)
 }
