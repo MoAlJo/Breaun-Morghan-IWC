@@ -5,13 +5,30 @@ body{
 }
 h2{
     font-family: 'Alegreya Sans', sans-serif;
+    margin-top: 60px;
 
 }
 
-#startgame{
-    
+#start{
+    text-decoration: none;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    padding-left: 20px;
+    font-family: 'Alegreya Sans', sans-serif;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-top: 40px;
+    color: black;
 }
 
 img{
     width: 90%;
+    margin-bottom: 40px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    
 }

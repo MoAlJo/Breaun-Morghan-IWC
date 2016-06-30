@@ -19,26 +19,26 @@ function Incorrect(){
     //grab the element we want to manipulate
     var wrongAnswer = document.getElementById("wrong1");
     wrongAnswer.style.color="red";
-    ScoreDown();
+//    ScoreDown();
 
 }
 function Wrong(){
     var wrongAnswer = document.getElementById("wrong2");
     wrongAnswer.style.color="red";
-    ScoreDown();
+//    ScoreDown();
 
 }
 function Notright(){
     var wrongAnswer = document.getElementById("wrong3");
     wrongAnswer.style.color="red";
-    ScoreDown();
+//    ScoreDown();
 
 }
 
 function Correct(){
     var correctAnswer = document.getElementById("correct1");
     correctAnswer.style.color="green";
-    ScoreUp();
+//    ScoreUp();
     Navigate("ques4.html")
    //window.setTimeout( Navigate("ques4.html"), 1000)
 }

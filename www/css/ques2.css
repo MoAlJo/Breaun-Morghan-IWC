@@ -1,16 +1,26 @@
 body{
     background-color: #1a75ff;
+     text-align:center;
 }
 button{
     color:#660066;
+    background-color:#b3d1ff; 
     font-family: 'Alegreya Sans', sans-serif;
+   
+    width: 80%;
+      font-size: 14px;
 
 }
 h1{
     font-family: 'Alegreya Sans', sans-serif;
+    font-size:20px;
 }   
 
 img{
     width:85%;
+    margin-bottom:15px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
 }
 
